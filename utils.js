@@ -1,1 +1,3 @@
-function mo() { }
+function mo() {
+    print("moshibbin")
+}

@@ -1,3 +1,6 @@
 function mo() {
-    print("moshibbin")
+
+  print("mo")
+  print("ibraahim")
+  print("moshibbin")
 }
